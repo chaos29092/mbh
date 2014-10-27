@@ -46,37 +46,23 @@
             <div class="images"><img src="{{asset('img/Mobil_Boat_Hoist_1.jpg')}}" alt="Mobil Boat Hoist" /></div>
     </div>
 
-        <div class="element home clearfix col1-3 borders portfolio overflow">
-              <div class="movable-content">
-                <div class="images"><img src="{{asset('img/Mobile-Asphalt-Mixing-Plant-1.jpg')}}" alt="" /></div>
-              </div>
-            </div>
 
-
-        <div class="element home clearfix col1-3 borders portfolio overflow">
-            <div class="movable-content">
-                <div class="images"><img src="{{asset('img/asphalt-mixing-plant-1.jpg')}}" alt="" /></div>
-             </div>
-        </div>
-
-        <div class="element home clearfix col1-3 borders portfolio overflow">
-            <div class="movable-content">
-                <div class="images"><img src="{{asset('img/Mobile-Asphalt-Mixing-Plant-2.jpg')}}" alt="" /></div>
-             </div>
-        </div>
 
     <div class="element home clearfix col2-3 services">
-    <h3>Mobile Asphalt Mixing Plant Parameters</h3>
-        <ul class="list check">
-            <li>DHB20 &nbsp;<strong>(China smallest)</strong>, &nbsp;20t/h, &nbsp;2×40HQ, &nbsp;<strong>FOB &nbsp;QD: &nbsp;USD 50, &nbsp;000</strong>.<br>
-               <small>Oil burner, &nbsp;15t direct heat bitumen tank, &nbsp;cyclone dust collector, &nbsp;2.5m³ silo of final product</small></li>
-            <li>DHB40, &nbsp;40t/h, &nbsp;3×40HQ+1×20GP, &nbsp;<strong>FOB QD: &nbsp;USD 87, &nbsp;000</strong>.<br>
-                <small>Oil burner, &nbsp;20t direct heat bitumen tank,&nbsp; water film dust filter, &nbsp;2.5m³ silo of final product</small></li>
-            <li>DHB60 <strong>&nbsp;(Hot model)</strong>, &nbsp;60t/h, &nbsp;4×40HQ+1×20GP, &nbsp;<strong>FOB QD: &nbsp;USD 104, &nbsp;000</strong>.<br>
-                <small>Oil burner, &nbsp;30t direct heat bitumen tank, &nbsp;water film dust filter, &nbsp;3.5m³ silo of final product</small></li>
-            <li>DHB80 <strong>&nbsp;(Hot model)</strong>, &nbsp;80t/h, &nbsp;5×40HQ+1×20GP, &nbsp;<strong>FOB QD: USD 120, &nbsp;000</strong>.<br>
-            <small>Oil burner, &nbsp;30t direct heat bitumen tank, &nbsp;water film dust filter, &nbsp;4.2m³ silo of final product</small></li>
-          </ul>
+    <p>Span: 14.4m ; Height: 12m;-Net width: 11.8m; - Lifting height: -3.5~+10m engine power: 180kw</p>
+    <p>Main System</p>
+    <ul class="list check">
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        </ul>
+
+        <p>Main Parameter of MBH 300 T.FOB：USD1,300,000</p>
     </div>
 
     <div class="element home clearfix col2-3 services">
