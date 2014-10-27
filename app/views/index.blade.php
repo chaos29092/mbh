@@ -26,25 +26,25 @@
   <div id="container" class="clearfix">
     <nav class="col1-3 no-bg element home services clients portfolio about blog contact">
       <div id="open-menu">
-       <img src="{{asset('img/logo.jpg')}}" alt="hanvy"/>
+       <img src="{{asset('img/niukelun_logo.jpg')}}" alt="nucleon logo"/>
 
       </div>
       
 
       <div id="logo-container">
-      <ul class="list check">
-                 <li>22-year manufacture experience</li>
-                 <li>10-year export experience</li>
-                 <li>Optimized container solution</li>
-                 <li>Questionnaire assistance</li>
-                 <li>Smallest mobile model: 20t/h</li>
-                 <li>Smallest fixed model: 40t/h</li>
-                 <li>Loan facility</li>
-               </ul>
+      <p>The first company
+         which export Mobil Boat Hoist
+         in China
+       </p>
+
 
       </div>
-      </a>
+
       </nav>
+
+    <div class="element home clearfix col2-3 services">
+            <div class="images"><img src="{{asset('img/Mobil_Boat_Hoist_1.jpg')}}" alt="Mobil Boat Hoist" /></div>
+    </div>
 
         <div class="element home clearfix col1-3 borders portfolio overflow">
               <div class="movable-content">
