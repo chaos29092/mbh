@@ -48,61 +48,61 @@
 
 
 
-    <div class="element home clearfix col2-3 services">
-    <p>Span: 14.4m ; Height: 12m;-Net width: 11.8m; - Lifting height: -3.5~+10m engine power: 180kw</p>
-    <p>Main System</p>
-    <ul class="list check">
-        <li>1</li>
-        <li>1</li>
-        <li>1</li>
-        <li>1</li>
-        <li>1</li>
-        <li>1</li>
-        <li>1</li>
-        <li>1</li>
-        </ul>
+    <div class="element home clearfix col1-3 border services">
+          <h3>Main Parameter of MBH 300 T </h3>
 
-        <p>Main Parameter of MBH 300 T.FOB：USD1,300,000</p>
-    </div>
+          <ul class="list check">
+                <li>FOB:  &nbsp;<strong>USD&nbsp;1, &nbsp;300, &nbsp;000</strong></li>
+                <li>Rated capacity: &nbsp;300t</li>
+                <li>Span: &nbsp;14.4m</li>
+                <li>Height: &nbsp;12m</li>
+                <li>Net width: &nbsp;11.8m</li>
+                <li>Lifting height: &nbsp;-3.5~+10m</li>
+                <li>Engine power: &nbsp;180kw</li>
+          </ul>
+     </div>
 
     <div class="element home clearfix col2-3 services">
-    <h3>Stationary Asphalt Mixing Plant Parameters</h3>
+    <h3>Main System Of MBH 300 T</h3>
       <ul class="list check">
-          <li>LB500-1, &nbsp;40t/h, &nbsp;7×40HQ, &nbsp;<strong>FOB QD: &nbsp;USD 129, &nbsp;000</strong>.<br/>
-         <small>Oil burner, &nbsp;20t direct heat bitumen tank, water film dust filter</small></li>
-          <li>LB800-2, &nbsp;64t/h, &nbsp;8×40HQ, &nbsp;<strong>FOB QD: &nbsp;USD 185, &nbsp;000</strong>.<br/>
-          <small>Oil burner, &nbsp;30t bitumen tank, &nbsp;300,&nbsp;000 Kcal thermal oil furnace, &nbsp;water film dust filter.</small></li>
-          <li>LB1000-2, &nbsp;80t/h, &nbsp;8×40HQ, &nbsp;<strong>FOB QD: &nbsp;USD 220, &nbsp;000</strong>.<br/>
-          <small>Oil burner, &nbsp;40t bitumen tank, &nbsp;300,&nbsp;000 Kcal thermal oil furnace, &nbsp;water film dust collector</small></li>
-          <li>LB1000-4, &nbsp;80t/h, &nbsp;10×40HQ, &nbsp;<strong>FOB QD: &nbsp;USD 280, &nbsp;000</strong>.<br/>
-          <small>Oil burner, &nbsp;40t bitumen tank, &nbsp;300,&nbsp;000 Kcal thermal oil furnace, &nbsp;bag dust collector</small></li>
+          <li>Hydraulic system: &nbsp;Brevini from  Italy</li>
+          <li>Tyre drive: &nbsp;Brevini from Italy</li>
+          <li>Electrical system: &nbsp;Schneider from French</li>
+          <li>Steering system: &nbsp;Rexroth from Germany</li>
+          <li>Winch-lifting system: &nbsp;Brevini from Italy</li>
+          <li>Motor: &nbsp;Cummins from America</li>
+          <li>Reducer: &nbsp;SEW from Germany</li>
+          <li>Remote control: &nbsp;HBC from Germany</li>
       </ul>
     </div>
 
-        <div class="element home clearfix col1-3 borders portfolio overflow">
-            <div class="movable-content">
-                <div class="images"><img src="{{asset('img/asphalt-mixing-plant-2.jpg')}}" alt="" /></div>
-             </div>
-        </div>
+    <div class="element home clearfix col1-3 border services">
+          <h3>Main Parameter of MBH 400 T </h3>
+
+          <ul class="list check">
+                <li>FOB:  &nbsp;<strong> USD&nbsp;1,&nbsp;705,&nbsp;379</strong></li>
+                <li>Rated capacity: &nbsp;400t</li>
+                <li>Span: &nbsp;14.5m</li>
+                <li>Height: &nbsp;15.3m</li>
+                <li>Net width: &nbsp;12.4m</li>
+                <li>Lifting height: &nbsp;-2.6~+20M</li>
+                <li>Engine power: &nbsp;290kw</li>
+          </ul>
+     </div>
 
     <div class="element home clearfix col2-3 services">
-    <h3>Stationary Asphalt Mixing Plant Parameters</h3>
-          <ul class="list check">
-              <li>LB1500-2, &nbsp;120t/h, &nbsp;9×40HQ,&nbsp;<strong>FOB QD: &nbsp;USD 319, &nbsp;000</strong>.<br/>
-              <small>Oil burner, &nbsp;2×40t bitumen tank, &nbsp;400,&nbsp;000 Kcal thermal oil furnace, &nbsp;water film dust filter</small></li>
-              <li>LB1500-4, &nbsp;120t/h, &nbsp;11×40HQ，<strong>FOB QD: &nbsp;USD 345, &nbsp;000</strong>.<br/>
-              <small>Oil burner, &nbsp;2×40t bitumen tank, &nbsp;400,&nbsp;000 Kcal thermal oil furnace, &nbsp;bag dust collector.</small></li>
-              <li>LB2000, &nbsp;160t/h, &nbsp;16×40HQ, &nbsp;<strong>FOB QD: &nbsp;USD 527, &nbsp;000</strong>.<br/>
-             <small>Oil burner, &nbsp;2×40t bitumen tank, &nbsp;500,000 Kcal thermal oil furnace, &nbsp;Bag dust collector, &nbsp;30t silo of final product, &nbsp;Siemens element</small></li>
-
-          </ul>
-        </div>
-
-        <div class="element home clearfix col1-3 borders portfolio overflow">
-            <div class="movable-content">
-                <div class="images"><img src="{{asset('img/asphalt-mixing-plant-3.jpg')}}" alt="" /></div>
-             </div>
-        </div>
+    <h3>Main System Of MBH 400 T</h3>
+      <ul class="list check">
+          <li>Hydraulic system: &nbsp;Brevini from  Italy</li>
+          <li>Tyre drive: &nbsp;Brevini from Italy</li>
+          <li>Electrical system: &nbsp;Schneider from French</li>
+          <li>Steering system: &nbsp;Rexroth from Germany</li>
+          <li>Winch-lifting system: &nbsp;Brevini from Italy</li>
+          <li>Motor: &nbsp;Cummins from America</li>
+          <li>Reducer: &nbsp;SEW from Germany</li>
+          <li>Remote control: &nbsp;HBC from Germany</li>
+      </ul>
+    </div>
 
     <div class="element home clearfix col1-3 border services">
       <h3>Questionnaire</h3>
@@ -122,82 +122,100 @@
              </div>
         </div>
 
-{{--客户参观工厂--}}
+{{--图纸--}}
         <div class="element home clearfix col1-3 borders portfolio overflow">
             <div class="movable-content">
-                <div class="images"><img src="{{asset('img/canguan/canguan_big_3.jpg')}}" alt="" /></div>
+                <div class="images"><img src="{{asset('img/tuzhi/tuzhi_1.jpg')}}" alt="" /></div>
              </div>
         </div>
 
         <div class="element home clearfix col1-3 borders portfolio overflow">
             <div class="movable-content">
-                <div class="images"><img src="{{asset('img/canguan/canguan_big_1.jpg')}}" alt="" /></div>
+                <div class="images"><img src="{{asset('img/tuzhi/tuzhi_2.jpg')}}" alt="" /></div>
              </div>
         </div>
 
         <div class="element home clearfix col1-3 borders portfolio overflow">
             <div class="movable-content">
-                <div class="images"><img src="{{asset('img/canguan/canguan_big_2.jpg')}}" alt="" /></div>
+                <div class="images"><img src="{{asset('img/tuzhi/tuzhi_3.jpg')}}" alt="" /></div>
             </div>
         </div>
 
-{{--客户参观现场--}}
+{{--厂貌展示--}}
         <div class="element home clearfix col1-3 borders portfolio overflow">
             <div class="movable-content">
-                <div class="images"><img src="{{asset('img/xianchang/xianchang_big_1.jpg')}}" alt="" /></div>
+                <div class="images"><img src="{{asset('img/changmao/changmao_1.jpg')}}" alt="" /></div>
              </div>
         </div>
 
         <div class="element home clearfix col1-3 borders portfolio overflow">
             <div class="movable-content">
-                <div class="images"><img src="{{asset('img/xianchang/xianchang_big_2.jpg')}}" alt="" /></div>
+                <div class="images"><img src="{{asset('img/changmao/changmao_2.jpg')}}" alt="" /></div>
              </div>
         </div>
 
         <div class="element home clearfix col1-3 borders portfolio overflow">
             <div class="movable-content">
-                <div class="images"><img src="{{asset('img/xianchang/xianchang_big_3.jpg')}}" alt="" /></div>
+                <div class="images"><img src="{{asset('img/changmao/changmao_3.jpg')}}" alt="" /></div>
+            </div>
+        </div>
+
+{{--客户看厂--}}
+        <div class="element home clearfix col1-3 borders portfolio overflow">
+            <div class="movable-content">
+                <div class="images"><img src="{{asset('img/kanchang/kanchang_1.jpg')}}" alt="" /></div>
+             </div>
+        </div>
+
+        <div class="element home clearfix col1-3 borders portfolio overflow">
+            <div class="movable-content">
+                <div class="images"><img src="{{asset('img/kanchang/kanchang_2.jpg')}}" alt="" /></div>
+             </div>
+        </div>
+
+        <div class="element home clearfix col1-3 borders portfolio overflow">
+            <div class="movable-content">
+                <div class="images"><img src="{{asset('img/kanchang/kanchang_3.jpg')}}" alt="" /></div>
+            </div>
+        </div>
+
+{{--客户看现场--}}
+        <div class="element home clearfix col1-3 borders portfolio overflow">
+            <div class="movable-content">
+                <div class="images"><img src="{{asset('img/xianchang/xianchang_1.jpg')}}" alt="" /></div>
+             </div>
+        </div>
+
+        <div class="element home clearfix col1-3 borders portfolio overflow">
+            <div class="movable-content">
+                <div class="images"><img src="{{asset('img/xianchang/xianchang_2.jpg')}}" alt="" /></div>
+             </div>
+        </div>
+
+        <div class="element home clearfix col1-3 borders portfolio overflow">
+            <div class="movable-content">
+                <div class="images"><img src="{{asset('img/xianchang/xianchang_3.jpg')}}" alt="" /></div>
             </div>
         </div>
 
 {{--客户技术讨论--}}
         <div class="element home clearfix col1-3 borders portfolio overflow">
             <div class="movable-content">
-                <div class="images"><img src="{{asset('img/taolun/taolun_big_1.jpg')}}" alt="" /></div>
+                <div class="images"><img src="{{asset('img/taolun/taolun_1.jpg')}}" alt="" /></div>
              </div>
         </div>
 
         <div class="element home clearfix col1-3 borders portfolio overflow">
             <div class="movable-content">
-                <div class="images"><img src="{{asset('img/taolun/taolun_big_2.jpg')}}" alt="" /></div>
+                <div class="images"><img src="{{asset('img/taolun/taolun_2.jpg')}}" alt="" /></div>
              </div>
         </div>
 
         <div class="element home clearfix col1-3 borders portfolio overflow">
             <div class="movable-content">
-                <div class="images"><img src="{{asset('img/taolun/taolun_big_3.jpg')}}" alt="" /></div>
+                <div class="images"><img src="{{asset('img/taolun/taolun_3.jpg')}}" alt="" /></div>
             </div>
         </div>
-
-{{--客户验货--}}
-        <div class="element home clearfix col1-3 borders portfolio overflow">
-            <div class="movable-content">
-                <div class="images"><img src="{{asset('img/zhanhui/zhanhui_big_1.jpg')}}" alt="" /></div>
-             </div>
-        </div>
-
-        <div class="element home clearfix col1-3 borders portfolio overflow">
-            <div class="movable-content">
-                <div class="images"><img src="{{asset('img/zhanhui/zhanhui_big_2.jpg')}}" alt="" /></div>
-             </div>
-        </div>
-
-        <div class="element home clearfix col1-3 borders portfolio overflow">
-            <div class="movable-content">
-                <div class="images"><img src="{{asset('img/zhanhui/zhanhui_big_3.jpg')}}" alt="" /></div>
-            </div>
-        </div>
-
 </div>
 <!-- end header -->
 <footer>
