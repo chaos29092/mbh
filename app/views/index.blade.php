@@ -223,11 +223,12 @@
 
 <div>
 <img src="{{asset('img/hanvyman.jpg')}}" alt="Account Manager"/>
-<p>My name is Richard Han,<br/>
-sales manager of Zhengzhou Hanvy Machinery & Equipment Co., Ltd.</p><br/>
-<p>Thanks for visit our website.</p><br/>
-<p>If you need talk now,please add my skype: vp05hanvyzj</p><br/>
-<p>More surprise is waiting for you, <br/>service we can supply is far more than products itself.</p>
+<p>Hi,&nbsp;my name is Richard,nice to meet you here.<br/>
+With development of 24 years, <br/>
+our technology on mobile boat hoist is getting mature.</p><br/>
+<p>Main components are world-famous brand,such as Rexroth,Schneider,Brevini</p>
+<p>The most important is our competitive price with good quality.</p>
+<p>In China, we are your best choice for mobile boat hoist.</p>
 </div>
 </div>
 
@@ -250,7 +251,7 @@ sales manager of Zhengzhou Hanvy Machinery & Equipment Co., Ltd.</p><br/>
 {{ Form::close() }}
 </div>
 <div class="clearfix"></div>
-<p class="centered">© 2014, Zhengzhou Hanvy Machinery And Equipment Co., Ltd.</p>
+<p class="centered">© 2014, Nucleon</p>
 </footer>
 <!-- BACK TO TOP BUTTON -->
 <div id="backtotop">
