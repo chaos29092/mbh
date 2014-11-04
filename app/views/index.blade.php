@@ -26,7 +26,7 @@
   <div id="container" class="clearfix">
     <nav class="col1-3 no-bg element home services clients portfolio about blog contact">
       <div id="open-menu">
-       <img src="{{asset('img/niukelun_logo.jpg')}}" alt="nucleon logo"/>
+       <img src="{{asset('img/logo.jpg')}}" alt="Hanvy logo"/>
 
       </div>
       
@@ -46,68 +46,40 @@
             <div class="images"><img src="{{asset('img/Mobil_Boat_Hoist_1.jpg')}}" alt="Mobil Boat Hoist" /></div>
     </div>
 
-
-
-    <div class="element home clearfix col1-3 border services">
-          <h3>Main Parameter of MBH 300 T </h3>
-
-          <ul class="list check">
-                <li>FOB:  &nbsp;<strong>USD&nbsp;1, &nbsp;300, &nbsp;000</strong></li>
-                <li>Rated capacity: &nbsp;300t</li>
-                <li>Span: &nbsp;14.4m</li>
-                <li>Height: &nbsp;12m</li>
-                <li>Net width: &nbsp;11.8m</li>
-                <li>Lifting height: &nbsp;-3.5~+10m</li>
-                <li>Engine power: &nbsp;180kw</li>
-          </ul>
-     </div>
-
     <div class="element home clearfix col2-3 services">
-    <h3>Main System Of MBH 300 T</h3>
-      <ul class="list check">
-          <li>Hydraulic system: &nbsp;Brevini from  Italy</li>
-          <li>Tyre drive: &nbsp;Brevini from Italy</li>
-          <li>Electrical system: &nbsp;Schneider from French</li>
-          <li>Steering system: &nbsp;Rexroth from Germany</li>
-          <li>Winch-lifting system: &nbsp;Brevini from Italy</li>
-          <li>Motor: &nbsp;Cummins from America</li>
-          <li>Reducer: &nbsp;SEW from Germany</li>
-          <li>Remote control: &nbsp;HBC from Germany</li>
-      </ul>
+    <h3>300T Mobile Boat Hoist</h3>
+    <p>Main Parameter: <br/>
+    Span:  14.4m ;Height:  12m ;Net Width:  11.8m  ;Lifting height:  -3.5~+10m  ;Engine power:  180kw <br/>
+    <strong>Hydraulic system: </strong> Brevini from Italy;<strong> Tyre drive:</strong>  Brevini from Italy ;<br/>
+    <strong>Electrical system: </strong> Schneider from French;
+    <strong>Steering system:</strong>  Rexroth from Germany<br/>
+    <strong>Winch-lifting system:</strong>  Brevini from Italy ;
+    <strong>Remote control: </strong> HBC from Germany ;<br/>
+    <strong>Motor:</strong>  Cummins from America ; <strong>Reducer:</strong>  SEW from Germany <br/>
+
+    <strong>FOB:</strong> USD 1, 300, 000
+
+    </p>
     </div>
 
     <div class="element home clearfix col1-3 border services">
-          <h3>Main Parameter of MBH 400 T </h3>
+          <h3>400T  Mobile Boat Hoist Parameter</h3>
 
-          <ul class="list check">
-                <li>FOB:  &nbsp;<strong> USD&nbsp;1,&nbsp;705,&nbsp;379</strong></li>
-                <li>Rated capacity: &nbsp;400t</li>
-                <li>Span: &nbsp;14.5m</li>
-                <li>Height: &nbsp;15.3m</li>
-                <li>Net width: &nbsp;12.4m</li>
-                <li>Lifting height: &nbsp;-2.6~+20M</li>
-                <li>Engine power: &nbsp;290kw</li>
-          </ul>
+          <p><small>
+          Span:  14.5m <br/>
+          Height:  15.3m <br/>
+          Net width:  12.4m <br/>
+          Lifting height:  -2.6~+20M <br/>
+          Engine power:  290kw <br/>
+          FOB:   USD 1, 705, 379
+            </small>
+          </p>
      </div>
-
-    <div class="element home clearfix col2-3 services">
-    <h3>Main System Of MBH 400 T</h3>
-      <ul class="list check">
-          <li>Hydraulic system: &nbsp;Brevini from  Italy</li>
-          <li>Tyre drive: &nbsp;Brevini from Italy</li>
-          <li>Electrical system: &nbsp;Schneider from French</li>
-          <li>Steering system: &nbsp;Rexroth from Germany</li>
-          <li>Winch-lifting system: &nbsp;Brevini from Italy</li>
-          <li>Motor: &nbsp;Cummins from America</li>
-          <li>Reducer: &nbsp;SEW from Germany</li>
-          <li>Remote control: &nbsp;HBC from Germany</li>
-      </ul>
-    </div>
 
     <div class="element home clearfix col1-3 border services">
       <h3>Questionnaire</h3>
       <p><small>We’re here to ensure you get the right machine for your yard with the support to keep it running at peak performance levels.</small>
-      <small>Please <a href="">ask for questionnaire</a> from us.</small><br/><br/></p>
+      <small>Please <a href="#contacted">ask for questionnaire</a> from us.</small><br/><br/></p>
 
     </div>
 
@@ -232,7 +204,7 @@ our technology on mobile boat hoist is getting mature.</p><br/>
 </div>
 </div>
 
-<div class="alignright">
+<div class="alignright" id="contacted">
 <h3>Contact Us</h3>
 {{ Form::open(array('url' => 'mailPost')) }}
     <div>
@@ -251,7 +223,7 @@ our technology on mobile boat hoist is getting mature.</p><br/>
 {{ Form::close() }}
 </div>
 <div class="clearfix"></div>
-<p class="centered">© 2014, Nucleon</p>
+<p class="centered">© 2014, Zhengzhou Hanvy Machinery And Equipment Co., Ltd.</p>
 </footer>
 <!-- BACK TO TOP BUTTON -->
 <div id="backtotop">
